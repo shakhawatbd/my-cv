@@ -1,0 +1,224 @@
+* {margin:0;padding:0}
+body {font-family:arial;color:;font-family:arial;font-size:16px;margin-top: 75px;margin-bottom: 75px}
+
+h4,h5,h6 {font-weight: normal}
+h1,h2 {color: white;font-weight: normal}
+h3 {color: aqua;}
+
+.fix {overflow:hidden;}
+.floatleft {float:left;}
+.floatright {float:right;}
+.structure {width:960px;margin-left:auto;margin-right: auto; display:block;background-color: #787BAE;padding: 0px;}
+
+
+.header_area {margin-top: -45px}
+.border_top {width:960px;margin-left: auto;margin-right: auto;border-top: solid #207476;
+border-width:10px;padding: 0px}
+.header {}
+
+.pic {padding-left: 0;
+    padding: 0;
+    margin-right: 34px;
+    margin-top: 12px;}
+
+.name {margin-top: 80px;
+    padding-left: 165px;}
+
+.contact {    margin-top: 22px;
+    padding-right: 0px;
+    margin-right: -153px;
+    margin-bottom: 17px;}
+
+.contact_text {margin-top: 10px}
+.area {margin-top:15px;width:960px;margin-left: auto;margin-right: auto;border-top: solid #207476;border-width:4px;padding: 0px }
+.profile {padding:30px;margin-right: 18px}
+.my_profile {}
+.profile_text {padding: 20px;}
+
+.skill_area {}
+.my_skill {}
+
+.skill_heading {float: left;margin-top: 32px; padding: 30px;padding-left:27px;padding-right:80px;}
+
+.skill {float: left; padding-top: 10px;
+    padding-bottom: 25px;}
+.skill ul {margin: 0;padding: 0;list-style: none;}
+.skill ul li { padding-top:8px;float:left;padding-left:0px;}
+.skill ul li a {color: aqua;}
+.skill ul ul li {float: left;padding-left: 0}
+
+.Interface_Design {float:left;
+    margin-left: 109px;
+    padding-top: 10px;
+    padding-bottom:25px}
+.Interface_Design ul {margin: 0;padding: 0;list-style: none;}
+.Interface_Design ul li {padding-top:8px;float:left;padding-left:0px;}
+.Interface_Design ul li a {color: aqua;}
+.Interface_Design ul ul li {float:left;padding-left:}
+
+.Project_Direction {float: right;
+    margin-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 25px;}
+.Project_Direction ul { margin: 0;padding: 0;list-style: none;}
+.Project_Direction ul li{padding-top:8px;float:left;padding-left:0px;}
+.Project_Direction ul li a {color: aqua;}
+.Project_Direction ul ul li{float:right;padding-left: 0}
+
+.technical_area {}
+.technical {}
+.technical_heading {float: left;
+    margin-top: 32px;
+    padding-bottom: 45px;
+    padding-left: 23px;
+    padding-right: 32px;}
+
+.technical_first_list {color: aqua;float: left;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding: 0px;
+    padding-bottom: 0px;}
+.technical_first_list ul {margin: 0;padding: 0;list-style: none;}
+.technical_first_list ul li{margin: 0;
+    padding: 5px;}
+.technical_first_list ul li a{}
+
+.technical_second_list {color: aqua;float: left;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 244px;
+    padding: 0px;
+    padding-bottom: 0px;}
+.technical_second_list ul {margin: 0;padding: 0;list-style: none;}
+.technical_second_list ul li{margin: 0;
+    margin-top: 0px;
+    padding: 5px;}
+.technical_second_list ul li a {}
+
+.technical_third_list {color: aqua;float: right;
+    margin-right: 130px;
+    margin-top: 13px;
+    margin-bottom: 13px;}
+.technical_third_list ul{margin: 0;padding: 0;list-style: none;}
+.technical_third_list ul li {margin: 0;
+    margin-top: 0px;
+    padding: 5px;}
+.technical_third_list ul li a {}
+
+.experience_area {}
+.experience {}
+.experience_heading {float: left;
+    margin-top: 57px;
+    padding-bottom: 520px;
+    padding-left: 23px;
+    padding-right: 20px;}
+
+.facebook {padding: 0;
+margin: 0px;margin-bottom: 17px;
+    margin-top: 15px;}
+. facebook_heading {}
+
+.experience_first_list {padding: 0px;}
+.experience_first_list ul {list-style: none;}
+.experience_first_list ul li{margin-top: 0px;margin-bottom: 0px;}
+.experience_first_list ul li a{margin-top: 0px;margin-bottom: 0px;}
+.margin-top: 0px;margin-bottom: 0px; margin-top: -142px;
+    margin-right: 38px;
+    margin-bottom: 0px;
+    color: aqua;}
+.experience_first_list ul ul {}
+.experience_first_list ul ul li{
+    margin-top: 14px;}
+   
+
+.heading_right {color: aqua; float: right;    
+    margin-top: -103px;
+    margin-right: 27px;}
+. {}
+
+.border_middle {width: 768px;
+    margin-left: 163px;
+    margin-right: 29px;
+    border-top: solid #207476;
+    border-width: 2px;
+    padding: 0px;}
+
+
+.education_area{}
+.education_heading{float: left;
+    margin-top: 52px;
+    padding-bottom: 170px;
+    padding-left: 23px;
+    padding-right: 32px;}
+
+.info {padding: 0px;
+    margin-bottom: 177px;
+    margin-left: 20px;
+    margin-right: 24px;}
+
+.bachelor{padding: 0;
+    margin: 0px;
+    margin-bottom: 17px;
+    margin-top: 32px;}
+.bachelor_heading{}
+.bachelor_first_list{}
+.bachelor_first_list ul{}
+.bachelor_first_list ul li{}
+.bachelor_first_list ul li a {}
+
+.bsc_heading_right{float: right;margin-top: -58px;
+margin-right: 26px;}
+
+.diploma{padding: 0;
+    margin: 0px;
+    margin-bottom: 17px;
+    margin-top: 32px;}
+.diploma_heading{}
+.diploma_first_list{}
+.diploma_first_list ul{}
+.diploma_first_list ul li{}
+.diploma_first_listul li a{}
+
+.diploma_heading_right{float: right;
+    margin-right: 26px;
+    margin-top: -52px;}
+
+.ssc{padding: 0;
+    margin: 0px;
+    margin-bottom: 17px;
+    margin-top: 32px;}
+.ssc_heading{}
+.ssc_first_list{}
+.ssc_first_list ul{}
+.ssc_first_list ul li{}
+.ssc_first_list ul li a{}
+
+.ssc_heading_right{float: right;
+    margin-right: 26px;
+    margin-top: -52px;}
+
+.result {color: aqua;}
+
+.religion{float: left;
+    margin-top: -57px;
+    margin-left: 342px;}
+
+.weight{float: left;
+    margin-top: -57px;
+    margin-left: 648px;}
+
+.bachelor{margin-left: 0px}
+
+.jony{float: right;
+    margin-top: -82px;
+    margin-right: 30px;}
+
+.ref_text{margin-top: 30px;}
+
+.footer_area{}
+.footer{}
+.footer_text{margin-right: 0px;
+    margin-left: 165px;
+    margin-top: 20px;
+    margin-bottom: 25px;}
+.{}
